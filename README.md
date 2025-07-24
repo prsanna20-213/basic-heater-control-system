@@ -61,24 +61,8 @@ You can simulate this project on [Wokwi](https://wokwi.com/) (online simulator f
 
 ## 📁 Files
 
-- heater_control.ino – Arduino sketch
+- Basic heater control
 - README.md – This file
-
----
-
-## ✅ To Do
-
-- Add relay for real heater
-- Display temperature on LCD
-- Add buzzer on overheat
-
----
-
-## 📸 Preview
-
-(Insert image or link to simulation here)
-
----
 
 ## 🧑‍💻 Author
 
